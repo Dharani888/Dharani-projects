@@ -6,4 +6,4 @@
 ##### DATA VISUAlIZATION: It is a critical component in the data analysis process, providing a means to communicate insights effectively and make data-driven decisions.
 ##### FEATURE SCAlING:Feature scaling is a preprocessing step in machine learning that involves standardizing or normalizing the numerical features of a dataset.
 ##### lOGISTIC REGRESSION:logistic Regression is a statistical method used for binary classification problems, where the goal is to predict the probability of an instance belonging to a particular class.
-pip install plotly
+
