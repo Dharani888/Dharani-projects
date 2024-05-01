@@ -1,2 +1,2 @@
 # Projectsinmasters
-Keeping track of my projects and storing them
+This is my first project to store in github
